@@ -1,0 +1,5 @@
+{
+  "/freelancer/register/page": "app/freelancer/register/page.js",
+  "/marketplace/page": "app/marketplace/page.js",
+  "/page": "app/page.js"
+}

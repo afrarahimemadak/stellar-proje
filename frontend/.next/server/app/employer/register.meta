@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/employer/layout,_N_T_/employer/register/layout,_N_T_/employer/register/page,_N_T_/employer/register"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/employer/register/__PAGE__",
+    "/employer/register",
+    "/employer",
+    "/_index",
+    "/_head"
+  ]
+}

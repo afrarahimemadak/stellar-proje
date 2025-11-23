@@ -1,0 +1,8 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/employer/register/page": "/employer/register",
+  "/freelancer/register/page": "/freelancer/register",
+  "/marketplace/page": "/marketplace",
+  "/page": "/"
+}

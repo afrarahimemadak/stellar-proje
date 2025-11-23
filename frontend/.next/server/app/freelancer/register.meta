@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/freelancer/layout,_N_T_/freelancer/register/layout,_N_T_/freelancer/register/page,_N_T_/freelancer/register"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/freelancer/register/__PAGE__",
+    "/freelancer/register",
+    "/freelancer",
+    "/_index",
+    "/_head"
+  ]
+}
