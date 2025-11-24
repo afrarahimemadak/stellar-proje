@@ -51,7 +51,6 @@ This project leverages Stellar’s fast transaction finality, low fees, and deve
 
 ## 👥 Team
 
-**Team Name:** Yokediciler  
+**Team Name:** Bındıko
 
 - Afra Rahime Madak – madakafra2@gmail.com  
-- Kerem Efe Bozkurt – trkbzkrt66@gmail.com
